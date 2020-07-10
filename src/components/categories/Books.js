@@ -1,0 +1,3 @@
+// Start a unique marketing section for each component category
+// Then category by category for every category component - starting with quick start categories or scroll through previews (marketing section) of categories, then the main sub categories, then the sub sub categories presented differently within the sub categories - go as deep as necessary in category nesting to display proper products.
+// 
